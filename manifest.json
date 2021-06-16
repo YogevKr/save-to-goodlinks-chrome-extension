@@ -1,9 +1,9 @@
 {
-  "name": "Save To Goodlinks",
+  "name": "Save To GoodLinks",
   "action": {},
   "manifest_version": 3,
   "version": "1.0",
-  "description": "Save current page to Goodlinks",
+  "description": "Save current page to GoodLinks",
   "permissions": [
     "activeTab",
     "scripting"
