@@ -1,6 +1,6 @@
-<h1 align="center">Save To Goodlinks</h1>
+<h1 align="center">Save To GoodLinks</h1>
 
-*Save To Goodlinks is a web browser extension that save current website to Goodlinks.*
+*Save To GoodLinks is a web browser extension that save current website to GoodLinks.*
 
 ### Installation Instructions
 **Google Chrome / Brave**
