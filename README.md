@@ -1,5 +1,4 @@
-<h1 align="center">![alt text](https://github.com/YogevKr/save-to-goodlinks-chrome-extension/blob/main/goodlinks_icon32.png?raw=true)
- Save To GoodLinks</h1>
+<h1 align="center"> Save To GoodLinks</h1>
 *Save To GoodLinks is a web browser extension that save current website to GoodLinks.*
 
 ### Installation Instructions
