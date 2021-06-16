@@ -1,0 +1,17 @@
+{
+  "name": "Save To Goodlinks",
+  "action": {},
+  "manifest_version": 3,
+  "version": "1.0",
+  "description": "Save current page to Goodlinks",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "32": "goodlinks_icon32.png"
+  }
+}
